@@ -1,0 +1,11 @@
+D:\IIM - Année 3\C sharp\JDR\JDR\bin\Debug\netcoreapp3.0\JDR.exe
+D:\IIM - Année 3\C sharp\JDR\JDR\bin\Debug\netcoreapp3.0\JDR.deps.json
+D:\IIM - Année 3\C sharp\JDR\JDR\bin\Debug\netcoreapp3.0\JDR.runtimeconfig.json
+D:\IIM - Année 3\C sharp\JDR\JDR\bin\Debug\netcoreapp3.0\JDR.runtimeconfig.dev.json
+D:\IIM - Année 3\C sharp\JDR\JDR\bin\Debug\netcoreapp3.0\JDR.dll
+D:\IIM - Année 3\C sharp\JDR\JDR\bin\Debug\netcoreapp3.0\JDR.pdb
+D:\IIM - Année 3\C sharp\JDR\JDR\obj\Debug\netcoreapp3.0\JDR.csprojAssemblyReference.cache
+D:\IIM - Année 3\C sharp\JDR\JDR\obj\Debug\netcoreapp3.0\JDR.AssemblyInfoInputs.cache
+D:\IIM - Année 3\C sharp\JDR\JDR\obj\Debug\netcoreapp3.0\JDR.AssemblyInfo.cs
+D:\IIM - Année 3\C sharp\JDR\JDR\obj\Debug\netcoreapp3.0\JDR.dll
+D:\IIM - Année 3\C sharp\JDR\JDR\obj\Debug\netcoreapp3.0\JDR.pdb
